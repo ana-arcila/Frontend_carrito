@@ -2,12 +2,13 @@
   "name": "app-carro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ana-arcila.github.io/Frontend_carrito/",
+  "homepage": "https://ana-arcila.github.io/Frontend_carrito",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d dist",
     "dev": "vite",
+    "serve": "vite preview",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
