@@ -2,7 +2,7 @@
   "name": "app-carro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://aishwaryaparab.github.io/book-landing-page/",
+  "homepage": "https://ana-arcila.github.io/Frontend_carrito/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
